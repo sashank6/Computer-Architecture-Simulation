@@ -1,0 +1,133 @@
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				16
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 509. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    449
+IPC: 				1.965
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				32
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 372. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    284
+IPC: 				2.688
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				64
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 287. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    146
+IPC: 				3.484
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				128
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 244. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    72
+IPC: 				4.098
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				256
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 242. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    44
+IPC: 				4.132
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				512
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 242. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				4.132
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				1024
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 242. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				4.132

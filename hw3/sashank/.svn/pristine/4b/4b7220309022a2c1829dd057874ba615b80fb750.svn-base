@@ -1,0 +1,10 @@
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Load Latency (cycles) 			2
+Instruction Limit			499999
+Enforcing Register Write Order?		yes
+
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: -1
+	at Simulator.processTrace(Simulator.java:135)
+	at HW2aGrader.main(HW2aGrader.java:44)

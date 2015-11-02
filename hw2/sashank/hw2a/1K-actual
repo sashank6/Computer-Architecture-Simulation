@@ -1,0 +1,195 @@
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			1
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	1000
+CPI (per uop): 				1.000
+IPC (per uop): 				1.000
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			2
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	1221
+CPI (per uop): 				1.221
+IPC (per uop): 				0.819
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			3
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	1442
+CPI (per uop): 				1.442
+IPC (per uop): 				0.693
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			4
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	1663
+CPI (per uop): 				1.663
+IPC (per uop): 				0.601
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			5
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	1884
+CPI (per uop): 				1.884
+IPC (per uop): 				0.531
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			6
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	2105
+CPI (per uop): 				2.105
+IPC (per uop): 				0.475
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			7
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	2326
+CPI (per uop): 				2.326
+IPC (per uop): 				0.430
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			8
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	2547
+CPI (per uop): 				2.547
+IPC (per uop): 				0.393
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			9
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	2768
+CPI (per uop): 				2.768
+IPC (per uop): 				0.361
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			10
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	2989
+CPI (per uop): 				2.989
+IPC (per uop): 				0.335
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			11
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	3210
+CPI (per uop): 				3.210
+IPC (per uop): 				0.312
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			12
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	3431
+CPI (per uop): 				3.431
+IPC (per uop): 				0.291
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			13
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	3652
+CPI (per uop): 				3.652
+IPC (per uop): 				0.274
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			14
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	3873
+CPI (per uop): 				3.873
+IPC (per uop): 				0.258
+HW 2 Printout for sashank
+-----------------------------------------------------
+Trace name  				mcf-1K
+Load Latency (cycles) 			15
+Instruction Limit			none
+Enforcing Register Write Order?		no
+
+Processed 1000 trace lines.
+Num Uops (micro-ops): 			1000
+Num Mops (macro-ops): 			928
+Total Execution Time (in cycles): 	4094
+CPI (per uop): 				4.094
+IPC (per uop): 				0.244

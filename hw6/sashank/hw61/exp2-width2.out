@@ -1,0 +1,126 @@
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				16
+  NOT modeling memory dependences
+Completed Trace @ cycle 438. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    378
+IPC: 				2.283
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				32
+  NOT modeling memory dependences
+Completed Trace @ cycle 286. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    200
+IPC: 				3.497
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				64
+  NOT modeling memory dependences
+Completed Trace @ cycle 189. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    73
+IPC: 				5.291
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				128
+  NOT modeling memory dependences
+Completed Trace @ cycle 152. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    16
+IPC: 				6.579
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				256
+  NOT modeling memory dependences
+Completed Trace @ cycle 151. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				6.623
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				512
+  NOT modeling memory dependences
+Completed Trace @ cycle 151. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				6.623
+HW 6 Printout for i-forgot-to-replace-this-string-with-my-wustlkey
+-----------------------------------------------------
+Trace name  				sjeng-1K
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				1024
+  NOT modeling memory dependences
+Completed Trace @ cycle 151. Ending Simulation...
+Processed 1000 trace lines.
+Instructions:
+  N Fetched =    		1000
+  N Committed =  		1000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				6.623

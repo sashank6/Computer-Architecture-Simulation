@@ -1,0 +1,126 @@
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				16
+  NOT modeling memory dependences
+Completed Trace @ cycle 5830847. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    1303425
+IPC: 				1.715
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				32
+  NOT modeling memory dependences
+Completed Trace @ cycle 5169473. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    256643
+IPC: 				1.934
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				64
+  NOT modeling memory dependences
+Completed Trace @ cycle 5033286. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    48118
+IPC: 				1.987
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				128
+  NOT modeling memory dependences
+Completed Trace @ cycle 5001472. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    2643
+IPC: 				1.999
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				256
+  NOT modeling memory dependences
+Completed Trace @ cycle 5000076. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				2.000
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				512
+  NOT modeling memory dependences
+Completed Trace @ cycle 5000076. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				2.000
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			2
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				1024
+  NOT modeling memory dependences
+Completed Trace @ cycle 5000076. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    0
+IPC: 				2.000

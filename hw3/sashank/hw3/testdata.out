@@ -1,0 +1,171 @@
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^2entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^2entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 68.06% (Mis-prediction rate: 31.94%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^3entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^3entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 70.96% (Mis-prediction rate: 29.04%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^4entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^4entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 75.08% (Mis-prediction rate: 24.92%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^5entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^5entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 76.84% (Mis-prediction rate: 23.16%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^6entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^6entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 77.91% (Mis-prediction rate: 22.09%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^7entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^7entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 81.03% (Mis-prediction rate: 18.97%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^8entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^8entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 83.01% (Mis-prediction rate: 16.99%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^9entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^9entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 84.76% (Mis-prediction rate: 15.24%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^10entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^10entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 86.13% (Mis-prediction rate: 13.87%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^11entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^11entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 86.52% (Mis-prediction rate: 13.48%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^12entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^12entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 86.85% (Mis-prediction rate: 13.15%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^13entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^13entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 86.97% (Mis-prediction rate: 13.03%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^14entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^14entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.06% (Mis-prediction rate: 12.94%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^15entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^15entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^16entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^16entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^17entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^17entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^18entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^18entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^19entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^19entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			bimodal -- 2^20entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** bimodal predictor, predicting 2^20entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 87.09% (Mis-prediction rate: 12.91%)

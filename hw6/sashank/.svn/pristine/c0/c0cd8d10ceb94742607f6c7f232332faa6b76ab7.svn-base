@@ -1,0 +1,9 @@
+Simulator.java:174: error: ')' expected
+			if(npfetch_f&&(currUop.TNnotBranch.equals("T"))?true:false;)
+			                                                          ^
+Simulator.java:174: error: illegal start of expression
+			if(npfetch_f&&(currUop.TNnotBranch.equals("T"))?true:false;)
+			                                                           ^
+2 errors
+
+Compiler error. At least one needed class was not created.

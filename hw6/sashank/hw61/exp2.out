@@ -1,0 +1,133 @@
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				16
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 5456541. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    5068229
+IPC: 				1.833
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				32
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 4141924. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    3524215
+IPC: 				2.414
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				64
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 3361897. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    2549819
+IPC: 				2.975
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				128
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 2980686. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    2033722
+IPC: 				3.355
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				256
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 2792563. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    1803964
+IPC: 				3.581
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				512
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 2709998. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    1710186
+IPC: 				3.690
+Experiments 2 & 3: Modeling Memory Dependences
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				1024
+  modeling memory dependences: Conservative Memory Scheduling
+Completed Trace @ cycle 2707781. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    1707589
+IPC: 				3.693

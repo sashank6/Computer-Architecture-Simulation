@@ -1,0 +1,180 @@
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 0 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 0 bits ** 
+Prediction Accuracy: 87.21% (Mis-prediction rate: 12.79%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 1 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 1 bits ** 
+Prediction Accuracy: 87.21% (Mis-prediction rate: 12.79%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 2 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 2 bits ** 
+Prediction Accuracy: 87.50% (Mis-prediction rate: 12.50%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 3 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 3 bits ** 
+Prediction Accuracy: 87.75% (Mis-prediction rate: 12.25%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 4 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 4 bits ** 
+Prediction Accuracy: 87.48% (Mis-prediction rate: 12.52%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 5 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 5 bits ** 
+Prediction Accuracy: 88.36% (Mis-prediction rate: 11.64%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 6 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 6 bits ** 
+Prediction Accuracy: 88.85% (Mis-prediction rate: 11.15%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 7 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 7 bits ** 
+Prediction Accuracy: 89.64% (Mis-prediction rate: 10.36%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 8 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 8 bits ** 
+Prediction Accuracy: 90.92% (Mis-prediction rate: 9.08%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 9 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 9 bits ** 
+Prediction Accuracy: 91.32% (Mis-prediction rate: 8.68%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 10 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 10 bits ** 
+Prediction Accuracy: 91.78% (Mis-prediction rate: 8.22%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 11 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 11 bits ** 
+Prediction Accuracy: 92.37% (Mis-prediction rate: 7.63%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 12 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 12 bits ** 
+Prediction Accuracy: 92.49% (Mis-prediction rate: 7.51%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 13 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 13 bits ** 
+Prediction Accuracy: 92.71% (Mis-prediction rate: 7.29%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 14 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 14 bits ** 
+Prediction Accuracy: 92.82% (Mis-prediction rate: 7.18%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 15 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 15 bits ** 
+Prediction Accuracy: 92.72% (Mis-prediction rate: 7.28%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 16 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 16 bits ** 
+Prediction Accuracy: 93.14% (Mis-prediction rate: 6.86%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 17 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 17 bits ** 
+Prediction Accuracy: 93.14% (Mis-prediction rate: 6.86%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 18 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 18 bits ** 
+Prediction Accuracy: 93.14% (Mis-prediction rate: 6.86%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			gshare -- 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 19 bits
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** gshare predictor, predicting 2^16entries, each has 2-bit sat ctrs, Plus BHR of length 19 bits ** 
+Prediction Accuracy: 93.14% (Mis-prediction rate: 6.86%)

@@ -1,0 +1,234 @@
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^2 entries, each has 2-bit sat ctrs
+GSHARE: 2^2 entries, each has 2-bit sat ctrs, Plus BHR of length 2 bits
+Chooser Table: 2^2 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^2 entries, each has 2-bit sat ctrs
+GSHARE: 2^2 entries, each has 2-bit sat ctrs, Plus BHR of length 2 bits
+Chooser Table: 2^2 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 69.91% (Mis-prediction rate: 30.09%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^3 entries, each has 2-bit sat ctrs
+GSHARE: 2^3 entries, each has 2-bit sat ctrs, Plus BHR of length 3 bits
+Chooser Table: 2^3 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^3 entries, each has 2-bit sat ctrs
+GSHARE: 2^3 entries, each has 2-bit sat ctrs, Plus BHR of length 3 bits
+Chooser Table: 2^3 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 71.60% (Mis-prediction rate: 28.40%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^4 entries, each has 2-bit sat ctrs
+GSHARE: 2^4 entries, each has 2-bit sat ctrs, Plus BHR of length 4 bits
+Chooser Table: 2^4 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^4 entries, each has 2-bit sat ctrs
+GSHARE: 2^4 entries, each has 2-bit sat ctrs, Plus BHR of length 4 bits
+Chooser Table: 2^4 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 74.67% (Mis-prediction rate: 25.33%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^5 entries, each has 2-bit sat ctrs
+GSHARE: 2^5 entries, each has 2-bit sat ctrs, Plus BHR of length 5 bits
+Chooser Table: 2^5 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^5 entries, each has 2-bit sat ctrs
+GSHARE: 2^5 entries, each has 2-bit sat ctrs, Plus BHR of length 5 bits
+Chooser Table: 2^5 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 76.50% (Mis-prediction rate: 23.50%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^6 entries, each has 2-bit sat ctrs
+GSHARE: 2^6 entries, each has 2-bit sat ctrs, Plus BHR of length 6 bits
+Chooser Table: 2^6 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^6 entries, each has 2-bit sat ctrs
+GSHARE: 2^6 entries, each has 2-bit sat ctrs, Plus BHR of length 6 bits
+Chooser Table: 2^6 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 77.99% (Mis-prediction rate: 22.01%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^7 entries, each has 2-bit sat ctrs
+GSHARE: 2^7 entries, each has 2-bit sat ctrs, Plus BHR of length 7 bits
+Chooser Table: 2^7 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^7 entries, each has 2-bit sat ctrs
+GSHARE: 2^7 entries, each has 2-bit sat ctrs, Plus BHR of length 7 bits
+Chooser Table: 2^7 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 81.56% (Mis-prediction rate: 18.44%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^8 entries, each has 2-bit sat ctrs
+GSHARE: 2^8 entries, each has 2-bit sat ctrs, Plus BHR of length 8 bits
+Chooser Table: 2^8 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^8 entries, each has 2-bit sat ctrs
+GSHARE: 2^8 entries, each has 2-bit sat ctrs, Plus BHR of length 8 bits
+Chooser Table: 2^8 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 84.29% (Mis-prediction rate: 15.71%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^9 entries, each has 2-bit sat ctrs
+GSHARE: 2^9 entries, each has 2-bit sat ctrs, Plus BHR of length 9 bits
+Chooser Table: 2^9 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^9 entries, each has 2-bit sat ctrs
+GSHARE: 2^9 entries, each has 2-bit sat ctrs, Plus BHR of length 9 bits
+Chooser Table: 2^9 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 86.74% (Mis-prediction rate: 13.26%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^10 entries, each has 2-bit sat ctrs
+GSHARE: 2^10 entries, each has 2-bit sat ctrs, Plus BHR of length 10 bits
+Chooser Table: 2^10 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^10 entries, each has 2-bit sat ctrs
+GSHARE: 2^10 entries, each has 2-bit sat ctrs, Plus BHR of length 10 bits
+Chooser Table: 2^10 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 88.67% (Mis-prediction rate: 11.33%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^11 entries, each has 2-bit sat ctrs
+GSHARE: 2^11 entries, each has 2-bit sat ctrs, Plus BHR of length 11 bits
+Chooser Table: 2^11 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^11 entries, each has 2-bit sat ctrs
+GSHARE: 2^11 entries, each has 2-bit sat ctrs, Plus BHR of length 11 bits
+Chooser Table: 2^11 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 90.10% (Mis-prediction rate: 9.90%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^12 entries, each has 2-bit sat ctrs
+GSHARE: 2^12 entries, each has 2-bit sat ctrs, Plus BHR of length 12 bits
+Chooser Table: 2^12 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^12 entries, each has 2-bit sat ctrs
+GSHARE: 2^12 entries, each has 2-bit sat ctrs, Plus BHR of length 12 bits
+Chooser Table: 2^12 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 91.34% (Mis-prediction rate: 8.66%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^13 entries, each has 2-bit sat ctrs
+GSHARE: 2^13 entries, each has 2-bit sat ctrs, Plus BHR of length 13 bits
+Chooser Table: 2^13 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^13 entries, each has 2-bit sat ctrs
+GSHARE: 2^13 entries, each has 2-bit sat ctrs, Plus BHR of length 13 bits
+Chooser Table: 2^13 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 92.38% (Mis-prediction rate: 7.62%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^14 entries, each has 2-bit sat ctrs
+GSHARE: 2^14 entries, each has 2-bit sat ctrs, Plus BHR of length 14 bits
+Chooser Table: 2^14 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^14 entries, each has 2-bit sat ctrs
+GSHARE: 2^14 entries, each has 2-bit sat ctrs, Plus BHR of length 14 bits
+Chooser Table: 2^14 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 93.14% (Mis-prediction rate: 6.86%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^15 entries, each has 2-bit sat ctrs
+GSHARE: 2^15 entries, each has 2-bit sat ctrs, Plus BHR of length 15 bits
+Chooser Table: 2^15 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^15 entries, each has 2-bit sat ctrs
+GSHARE: 2^15 entries, each has 2-bit sat ctrs, Plus BHR of length 15 bits
+Chooser Table: 2^15 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 93.78% (Mis-prediction rate: 6.22%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^16 entries, each has 2-bit sat ctrs
+GSHARE: 2^16 entries, each has 2-bit sat ctrs, Plus BHR of length 16 bits
+Chooser Table: 2^16 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^16 entries, each has 2-bit sat ctrs
+GSHARE: 2^16 entries, each has 2-bit sat ctrs, Plus BHR of length 16 bits
+Chooser Table: 2^16 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 94.38% (Mis-prediction rate: 5.62%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^17 entries, each has 2-bit sat ctrs
+GSHARE: 2^17 entries, each has 2-bit sat ctrs, Plus BHR of length 17 bits
+Chooser Table: 2^17 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^17 entries, each has 2-bit sat ctrs
+GSHARE: 2^17 entries, each has 2-bit sat ctrs, Plus BHR of length 17 bits
+Chooser Table: 2^17 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 94.66% (Mis-prediction rate: 5.34%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^18 entries, each has 2-bit sat ctrs
+GSHARE: 2^18 entries, each has 2-bit sat ctrs, Plus BHR of length 18 bits
+Chooser Table: 2^18 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^18 entries, each has 2-bit sat ctrs
+GSHARE: 2^18 entries, each has 2-bit sat ctrs, Plus BHR of length 18 bits
+Chooser Table: 2^18 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 94.81% (Mis-prediction rate: 5.19%)
+HW 3 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Branch Predictor: 			tour -- Bimodal: 2^19 entries, each has 2-bit sat ctrs
+GSHARE: 2^19 entries, each has 2-bit sat ctrs, Plus BHR of length 19 bits
+Chooser Table: 2^19 entries, each has 2-bit sat ctrs
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+** tour predictor, predicting Bimodal: 2^19 entries, each has 2-bit sat ctrs
+GSHARE: 2^19 entries, each has 2-bit sat ctrs, Plus BHR of length 19 bits
+Chooser Table: 2^19 entries, each has 2-bit sat ctrs ** 
+Prediction Accuracy: 94.88% (Mis-prediction rate: 5.12%)

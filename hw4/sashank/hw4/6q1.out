@@ -1,0 +1,225 @@
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 256B. Each block = 32B.
+1-way set associative cache.
+Tag = 24 bits, Index = 3 bits, Offset = 5 bits
+There are 8 sets total in the cache.
+At this associativity, that means a total of 8 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 55.79% (Mis-rate: 44.21%)
+Total number of bytes transferred write-back: 50834752
+Total number of bytes transferred write-thru: 41015916
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 512B. Each block = 32B.
+1-way set associative cache.
+Tag = 23 bits, Index = 4 bits, Offset = 5 bits
+There are 16 sets total in the cache.
+At this associativity, that means a total of 16 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 65.02% (Mis-rate: 34.98%)
+Total number of bytes transferred write-back: 40506176
+Total number of bytes transferred write-thru: 33026668
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 1024B. Each block = 32B.
+1-way set associative cache.
+Tag = 22 bits, Index = 5 bits, Offset = 5 bits
+There are 32 sets total in the cache.
+At this associativity, that means a total of 32 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 74.52% (Mis-rate: 25.48%)
+Total number of bytes transferred write-back: 29646144
+Total number of bytes transferred write-thru: 24812524
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 2048B. Each block = 32B.
+1-way set associative cache.
+Tag = 21 bits, Index = 6 bits, Offset = 5 bits
+There are 64 sets total in the cache.
+At this associativity, that means a total of 64 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 83.29% (Mis-rate: 16.71%)
+Total number of bytes transferred write-back: 19938240
+Total number of bytes transferred write-thru: 17219788
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 4096B. Each block = 32B.
+1-way set associative cache.
+Tag = 20 bits, Index = 7 bits, Offset = 5 bits
+There are 128 sets total in the cache.
+At this associativity, that means a total of 128 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 90.56% (Mis-rate: 9.44%)
+Total number of bytes transferred write-back: 11220736
+Total number of bytes transferred write-thru: 10934444
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 8192B. Each block = 32B.
+1-way set associative cache.
+Tag = 19 bits, Index = 8 bits, Offset = 5 bits
+There are 256 sets total in the cache.
+At this associativity, that means a total of 256 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 93.02% (Mis-rate: 6.98%)
+Total number of bytes transferred write-back: 8560544
+Total number of bytes transferred write-thru: 8808428
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 16384B. Each block = 32B.
+1-way set associative cache.
+Tag = 18 bits, Index = 9 bits, Offset = 5 bits
+There are 512 sets total in the cache.
+At this associativity, that means a total of 512 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 95.00% (Mis-rate: 5.00%)
+Total number of bytes transferred write-back: 6160256
+Total number of bytes transferred write-thru: 7089740
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 32768B. Each block = 32B.
+1-way set associative cache.
+Tag = 17 bits, Index = 10 bits, Offset = 5 bits
+There are 1024 sets total in the cache.
+At this associativity, that means a total of 1024 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 97.77% (Mis-rate: 2.23%)
+Total number of bytes transferred write-back: 2773760
+Total number of bytes transferred write-thru: 4691820
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 65536B. Each block = 32B.
+1-way set associative cache.
+Tag = 16 bits, Index = 11 bits, Offset = 5 bits
+There are 2048 sets total in the cache.
+At this associativity, that means a total of 2048 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 98.65% (Mis-rate: 1.35%)
+Total number of bytes transferred write-back: 1590080
+Total number of bytes transferred write-thru: 3929996
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 131072B. Each block = 32B.
+1-way set associative cache.
+Tag = 15 bits, Index = 12 bits, Offset = 5 bits
+There are 4096 sets total in the cache.
+At this associativity, that means a total of 4096 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.16% (Mis-rate: 0.84%)
+Total number of bytes transferred write-back: 934816
+Total number of bytes transferred write-thru: 3494796
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 262144B. Each block = 32B.
+1-way set associative cache.
+Tag = 14 bits, Index = 13 bits, Offset = 5 bits
+There are 8192 sets total in the cache.
+At this associativity, that means a total of 8192 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.27% (Mis-rate: 0.73%)
+Total number of bytes transferred write-back: 796352
+Total number of bytes transferred write-thru: 3395628
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 524288B. Each block = 32B.
+1-way set associative cache.
+Tag = 13 bits, Index = 14 bits, Offset = 5 bits
+There are 16384 sets total in the cache.
+At this associativity, that means a total of 16384 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.78% (Mis-rate: 0.22%)
+Total number of bytes transferred write-back: 202624
+Total number of bytes transferred write-thru: 2952236
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 1048576B. Each block = 32B.
+1-way set associative cache.
+Tag = 12 bits, Index = 15 bits, Offset = 5 bits
+There are 32768 sets total in the cache.
+At this associativity, that means a total of 32768 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.84% (Mis-rate: 0.16%)
+Total number of bytes transferred write-back: 148128
+Total number of bytes transferred write-thru: 2903820
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 2097152B. Each block = 32B.
+1-way set associative cache.
+Tag = 11 bits, Index = 16 bits, Offset = 5 bits
+There are 65536 sets total in the cache.
+At this associativity, that means a total of 65536 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.85% (Mis-rate: 0.15%)
+Total number of bytes transferred write-back: 130240
+Total number of bytes transferred write-thru: 2892108
+HW 4 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Cache size  = 4194304B. Each block = 32B.
+1-way set associative cache.
+Tag = 10 bits, Index = 17 bits, Offset = 5 bits
+There are 131072 sets total in the cache.
+At this associativity, that means a total of 131072 cache lines.
+(Assuming a 32-bit address.)
+Instruction Limit			none
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Cache Hit Rate = 99.85% (Mis-rate: 0.15%)
+Total number of bytes transferred write-back: 128032
+Total number of bytes transferred write-thru: 2891500

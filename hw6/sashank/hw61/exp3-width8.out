@@ -1,0 +1,140 @@
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				16
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 4543560. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    4135887
+IPC: 				2.201
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				32
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 2954501. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    2262811
+IPC: 				3.385
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				64
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 2030536. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    1043710
+IPC: 				4.925
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				128
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 1492162. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    318358
+IPC: 				6.702
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				256
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 1299818. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    59623
+IPC: 				7.693
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				512
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 1255531. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    6754
+IPC: 				7.965
+Experiments 2 & 3: Modeling Memory Dependences
+Experiment 3: Modeling Perfect Memory Scheduling
+HW 6 Printout for sashank
+-----------------------------------------------------
+Trace name  				sjeng-10M
+Instruction Limit			none
+Processor Configuration:
+  Machine Width 			8
+  Number of Logical Registers 		50
+  Number of Physical Registers 		2048
+  ROB Size 				1024
+  modeling memory dependences: Perfect Memory Scheduling
+Completed Trace @ cycle 1250284. Ending Simulation...
+Processed 10000000 trace lines.
+Instructions:
+  N Fetched =    		10000000
+  N Committed =  		10000000
+Stalls:
+  Fetch stalled (ROB full) =    228
+IPC: 				7.998

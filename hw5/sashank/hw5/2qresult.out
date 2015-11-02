@@ -1,0 +1,72 @@
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	11459731
+CPI (per uop): 				1.146
+IPC (per uop): 				0.873
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	8036381
+CPI (per uop): 				0.804
+IPC (per uop): 				1.244
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	7305876
+CPI (per uop): 				0.731
+IPC (per uop): 				1.369
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	7102433
+CPI (per uop): 				0.710
+IPC (per uop): 				1.408
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	7048086
+CPI (per uop): 				0.705
+IPC (per uop): 				1.419
+HW 5 Printout for sashank
+-----------------------------------------------------
+Trace name  				gcc-10M
+Load Latency (cycles) 			2
+Instruction Limit			none
+Processing trace...
+Processed 10000000 trace lines.
+Num Uops (micro-ops): 			10000000
+Num Mops (macro-ops): 			7678614
+Total Execution Time (in cycles): 	7010634
+CPI (per uop): 				0.701
+IPC (per uop): 				1.426
